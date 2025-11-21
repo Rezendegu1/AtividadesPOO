@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\athosvaisefoder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A6D205-2DE0-486F-8996-79AB3D5EEAB4}|athosvaisefoder\\athosvaisefoder.vcxproj|C:\\Users\\User\\source\\repos\\athosvaisefoder\\athosvaisefoder\\athosvaisefoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0A6D205-2DE0-486F-8996-79AB3D5EEAB4}|athosvaisefoder\\athosvaisefoder.vcxproj|solutionrelative:athosvaisefoder\\athosvaisefoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "athosvaisefoder.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\athosvaisefoder\\athosvaisefoder\\athosvaisefoder.cpp",
+              "RelativeDocumentMoniker": "athosvaisefoder\\athosvaisefoder.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\athosvaisefoder\\athosvaisefoder\\athosvaisefoder.cpp",
+              "RelativeToolTip": "athosvaisefoder\\athosvaisefoder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-12T22:15:12.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

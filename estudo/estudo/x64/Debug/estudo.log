@@ -1,0 +1,9 @@
+﻿  cu.cpp
+  estudo.cpp
+C:\Users\User\source\repos\estudo\estudo\estudo.cpp(7,9): error C2084: função 'Pessoa::Pessoa(void)' já possui um corpo
+      C:\Users\User\source\repos\estudo\estudo\cu.h(7,2):
+      ver a definição anterior de "Pessoa::Pessoa"
+  
+  main.cpp
+C:\Users\User\source\repos\estudo\estudo\main.cpp(16,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
+  Gerando Código...

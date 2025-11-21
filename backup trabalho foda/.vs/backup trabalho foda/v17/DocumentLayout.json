@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\personagem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|solutionrelative:backup trabalho foda\\personagem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\batalha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|solutionrelative:backup trabalho foda\\batalha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\cena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|solutionrelative:backup trabalho foda\\cena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|solutionrelative:backup trabalho foda\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\backup trabalho foda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EB4E8A3-37D1-4F13-B36F-7F2A8AAA73CA}|backup trabalho foda\\backup trabalho foda.vcxproj|solutionrelative:backup trabalho foda\\backup trabalho foda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "personagem.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\personagem.cpp",
+              "RelativeDocumentMoniker": "backup trabalho foda\\personagem.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\personagem.cpp",
+              "RelativeToolTip": "backup trabalho foda\\personagem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T13:39:05.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "batalha.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\batalha.cpp",
+              "RelativeDocumentMoniker": "backup trabalho foda\\batalha.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\batalha.cpp",
+              "RelativeToolTip": "backup trabalho foda\\batalha.cpp",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T13:38:28.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cena.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\cena.cpp",
+              "RelativeDocumentMoniker": "backup trabalho foda\\cena.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\cena.cpp",
+              "RelativeToolTip": "backup trabalho foda\\cena.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T13:38:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\game.cpp",
+              "RelativeDocumentMoniker": "backup trabalho foda\\game.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\game.cpp*",
+              "RelativeToolTip": "backup trabalho foda\\game.cpp*",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAwwN0BAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T13:37:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "backup trabalho foda.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\backup trabalho foda.cpp",
+              "RelativeDocumentMoniker": "backup trabalho foda\\backup trabalho foda.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\backup trabalho foda\\backup trabalho foda\\backup trabalho foda.cpp",
+              "RelativeToolTip": "backup trabalho foda\\backup trabalho foda.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T13:37:35.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
