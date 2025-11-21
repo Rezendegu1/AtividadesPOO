@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Monstro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Monstro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Batalha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Batalha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Monstro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Monstro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Cena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Cena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Cena.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Cena.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Batalha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Batalha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Personagem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Personagem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Personagem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Personagem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\SaveManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\SaveManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\SaveManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{296C8B4F-85C8-43D5-B7EA-4912BE52A25C}|main.cpp\\main.cpp.vcxproj|solutionrelative:main.cpp\\SaveManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monstro.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Monstro.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\Monstro.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Monstro.cpp",
+              "RelativeToolTip": "main.cpp\\Monstro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:01:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Personagem.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Personagem.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\Personagem.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Personagem.cpp",
+              "RelativeToolTip": "main.cpp\\Personagem.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAK4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T12:51:19.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monstro.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Monstro.h",
+              "RelativeDocumentMoniker": "main.cpp\\Monstro.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Monstro.h",
+              "RelativeToolTip": "main.cpp\\Monstro.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T23:00:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Personagem.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Personagem.h",
+              "RelativeDocumentMoniker": "main.cpp\\Personagem.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Personagem.h",
+              "RelativeToolTip": "main.cpp\\Personagem.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T23:40:55.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Game.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\Game.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Game.cpp",
+              "RelativeToolTip": "main.cpp\\Game.cpp",
+              "ViewState": "AgIAAOIBAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:41:06.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cena.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Cena.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\Cena.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Cena.cpp",
+              "RelativeToolTip": "main.cpp\\Cena.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAGQAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:41:04.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Batalha.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Batalha.h",
+              "RelativeDocumentMoniker": "main.cpp\\Batalha.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Batalha.h",
+              "RelativeToolTip": "main.cpp\\Batalha.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T22:53:28.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\main.cpp",
+              "RelativeToolTip": "main.cpp\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:41:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Batalha.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Batalha.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\Batalha.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Batalha.cpp",
+              "RelativeToolTip": "main.cpp\\Batalha.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:41:01.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Game.h",
+              "RelativeDocumentMoniker": "main.cpp\\Game.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Game.h",
+              "RelativeToolTip": "main.cpp\\Game.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T22:53:38.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Item.h",
+              "RelativeDocumentMoniker": "main.cpp\\Item.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Item.h",
+              "RelativeToolTip": "main.cpp\\Item.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T22:54:02.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cena.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Cena.h",
+              "RelativeDocumentMoniker": "main.cpp\\Cena.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Cena.h",
+              "RelativeToolTip": "main.cpp\\Cena.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T22:53:33.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Item.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\Item.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\Item.cpp",
+              "RelativeToolTip": "main.cpp\\Item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T22:56:27.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaveManager.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\SaveManager.cpp",
+              "RelativeDocumentMoniker": "main.cpp\\SaveManager.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\SaveManager.cpp",
+              "RelativeToolTip": "main.cpp\\SaveManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:41:21.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inventario.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.cpp",
+              "RelativeDocumentMoniker": "..\\..\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.cpp",
+              "RelativeToolTip": "..\\..\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:41:09.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaveManager.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\SaveManager.h",
+              "RelativeDocumentMoniker": "main.cpp\\SaveManager.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\TrabalhoGA - Athos Kolling e Gustavo Rezende\\main.cpp\\main.cpp\\SaveManager.h",
+              "RelativeToolTip": "main.cpp\\SaveManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T23:40:58.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inventario.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.h",
+              "RelativeDocumentMoniker": "..\\..\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.h",
+              "RelativeToolTip": "..\\..\\testeTrabalho\\main.cpp\\main.cpp\\Inventario.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-06T22:53:42.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\testeTrabalho\\main.cpp\\main.cpp\\Player.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Atividades_FPOO\\testeTrabalho\\main.cpp\\main.cpp\\Player.cpp",
+              "RelativeToolTip": "..\\..\\testeTrabalho\\main.cpp\\main.cpp\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T23:05:10.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
