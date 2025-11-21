@@ -1,0 +1,4 @@
+Voce escolhe o caminho da esquerda. O corredor estreito forca-o a andar de lado em alguns pontos, e a umidade das paredes de pedra infiltra-se na sua tunica. Apos alguns metros de uma caminhada tensa, voce ouve um som a frente, como galhos quebrando, seguido de um rosnado baixo. A escuridao a sua frente parece ganhar vida.
+
+#3: Avancar desembainhando a sua arma para investigar o som.
+#4: Parar e usar uma tocha de madeira apodrecida encostada na parede para enxergar melhor.

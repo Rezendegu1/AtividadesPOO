@@ -1,0 +1,4 @@
+Voce decide que forca bruta nao e o caminho. Voce passa as maos pelas paredes de pedra fria, procurando por qualquer ponto estranho. Atras de uma pedra solta, voce percebe um mecanismo. Ao pressiona-lo, uma parte da parede desliza para o lado, revelando uma passagem estreita e empoeirada. No interior, apoiada em um suporte, esta uma chave. A chave e escura, com entalhes e formato estranho, que voce nao reconhece. Voce a pega e segue pelo corredor secreto.
+
+I: Chave Ornamentada;c;0;0;0
+#8: Sair da passagem secreta para a proxima sala.

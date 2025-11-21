@@ -1,0 +1,6 @@
+Voce e um heroi ateniense em desgraca, exilado apos uma batalha que custou a vida do seu pelotao. Os deuses, em sua misericordia ambigua, ofereceram-lhe uma unica chance de redencao: entrar no labirinto de Creta, um lugar amaldicoado e esquecido, para derrotar o minotauro, o monstro que habita o coracao da estrutura e cuja existencia e uma afronta ao panteao. Reza a lenda que a Lamina do Olimpo se esconde aqui, uma lendaria arma que pode ajudar na sua jornada, entao procure-a.
+
+Apos uma longa jornada, voce esta aqui. A entrada do labirinto e uma boca de pedra colossal, gasta pelo tempo. O silencio e notavel, denso com o cheiro de mofo e de algo selvagem e antigo. O seu objetivo e claro, mas o caminho e incerto. A sua frente, o corredor principal divide-se em duas passagens escuras. O seu instinto de guerreiro diz-lhe que a primeira escolha pode selar o seu destino.
+
+#2: Seguir pelo corredor da esquerda, que parece mais estreito e humido.
+#6: Seguir pelo corredor da direita, de onde emana uma corrente de ar fria.

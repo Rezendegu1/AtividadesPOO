@@ -1,0 +1,4 @@
+Voce escolhe o caminho da direita. Um vento frio atinge seu rosto, uma surpresa em relação ao ar parado da entrada. O corredor e mais largo aqui, e as paredes sao lisas. A frente, voce ve uma pequena camara com uma fonte no centro. A agua brilha com uma luz fraca, borbulhando suavemente. E a unica fonte de luz no local.
+
+#14: Beber a agua da fonte.
+#5: Ignorar a fonte e seguir em frente.

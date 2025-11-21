@@ -1,0 +1,8 @@
+Voce opta pelo vão, pressionando o corpo contra a parede fria de rocha. No meio do caminho, um barulho de agua agitada vem do abismo abaixo. Multiplas cabecas de serpente em um corpo gigante emergem da escuridao, gritando com furia. A Hidra bloqueia seu caminho, parecendo invulneravel.
+
+N: Hidra
+H: 8
+E: 50
+T:1000
+I:Pocao de Cura;c;1;0;0
+5:13

@@ -1,0 +1,4 @@
+Voce abre o bau e la esta ela, voce tem certeza de que a encontrou. A lamina do olimpo! Ela e grande, dificil ate de carregar, mas imponente e voce sabe que deve usar ela para ganhar do minotauro. Voce segue por uma passagem longa e escura, que termina em um lance de escadas que descem ainda mais para as profundezas da terra. Voce sente um calor intenso a cada degrau que desce. Voce pode ouvir o bufar pesado e raivoso de uma grande criatura logo abaixo. Este e o coracao do labirinto. Nao ha mais para onde ir senao para a frente.
+
+I:Lamina do Olimpo;w;1;2;57
+#19: Passar pela grande porta de pedra a sua frente.

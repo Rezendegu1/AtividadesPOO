@@ -1,0 +1,9 @@
+A sua audacia leva-o para a escuridao. Voce pisa num osso que se parte, denunciando a sua posicao. Das sombras, um Satiro com um cajado de madeira salta na sua direcao, gritando em furia! Ele ataca sem hesitar, o seu alvo e claro. Prepare-se para lutar pela sua vida!
+
+N: Satiro Batedor
+H: 7
+E: 6
+FUGIR: N
+P: 1
+T: 50
+15:13

@@ -1,0 +1,4 @@
+A prudencia guia os seus atos. Voce ignora o som e pega a tocha para enxergar melhor. Ela esta velha e coberto de lascas, mas voce consegue acende-la para ajudar na sua jornada. O som a frente cessa subitamente, e voce percebe que o que quer que estivesse la, afastou-se, talvez intimidado pela sua postura defensiva. Voce adiciona a tocha ao seu equipamento e continua pelo corredor.
+
+I: Tocha;c;0;0;0
+#15: Continuar pelo corredor ate ao fim.

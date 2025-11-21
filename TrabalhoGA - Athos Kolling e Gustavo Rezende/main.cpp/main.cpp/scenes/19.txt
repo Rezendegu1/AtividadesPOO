@@ -1,0 +1,4 @@
+Voce chega em um pequeno santuario, um lugar silencioso. No centro, uma simples estatua de pedra da deusa Atena segura um frasco que emite uma luz. Voce pega o frasco e se sente um pouco mais preparado para o que vem a seguir. Voce ja entendeu o que esta acontecendo, atras da grande porta voce enfrentara seu destino, enfrentara a furia do Minotauro. Esse pode ser o ultimo momento para se preparar. (+1 Pocao de Cura)
+
+I:Pocao de Cura;c;1;0;0
+#11: Abrir a grande porta e enfrentar o Minotauro.

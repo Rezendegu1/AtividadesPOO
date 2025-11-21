@@ -1,0 +1,4 @@
+A aparencia magica da agua o convence. Voce se aproxima e bebe um gole. A agua e fria e tem um gosto estranho. Por um momento, voce se sente revigorado, parece recuperar um pouco sua forca de vontade. Voce pega um frasco e coleta um pouco dessa agua, pode ser util mais pra frente. Voce segue em frente. +1 Pocao de cura.
+
+I:Frasco com Agua da Fonte;c;1;0;0
+#5: Continuar pela passagem adiante.

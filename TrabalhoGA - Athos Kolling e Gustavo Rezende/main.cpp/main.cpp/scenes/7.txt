@@ -1,0 +1,7 @@
+Voce investe seu ombro contra a porta de bronze. Um estrondo forte ecoa por todo o labirinto, a tranca de ferro se quebra. A porta se abre. Porem, o barulho atrai atencao indesejada. Do teto alto da proxima sala, uma criatura com o corpo de uma ave e o rosto de uma mulher desce em sua direcao gritando. Uma Harpia!
+
+N: Harpia
+H: 8
+E: 7
+T: 100
+19:13
