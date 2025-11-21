@@ -1,7 +1,0 @@
-﻿  main.cpp
-  pessoa2.cpp
-C:\Users\User\source\repos\pessoa2\pessoa2\pessoa2.cpp(10,6): warning C4101: 'irmaos': variável local não referenciada
-C:\Users\User\source\repos\pessoa2\pessoa2\pessoa2.cpp(8,6): warning C4101: 'idade': variável local não referenciada
-  Gerando Código...
-MSVCRTD.lib(exe_winmain.obj) : error LNK2019: símbolo externo não resolvido, WinMain, referenciado na função "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\User\source\repos\pessoa2\x64\Debug\pessoa2.exe : fatal error LNK1120: 1 externo não resolvidos
