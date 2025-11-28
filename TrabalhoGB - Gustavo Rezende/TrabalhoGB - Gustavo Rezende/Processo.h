@@ -18,6 +18,9 @@ public:
 	string getTipo() const;
 
 	virtual void execute() = 0; //=0 obriga as classes filhas a implementarem
+	virtual string getDetalhes() const {
+		return "";
+	}
 	virtual string toString() const; //pra converter os dados em texto, ajuda na hora de salvar ou imprimir
 };
 

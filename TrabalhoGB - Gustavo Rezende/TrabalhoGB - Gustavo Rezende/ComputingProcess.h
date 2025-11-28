@@ -14,4 +14,5 @@ public:
 	ComputingProcess(int id, string expressao);
 	void execute() override;
 	string toString() const override;
+	string getDetalhes() const override; 
 };

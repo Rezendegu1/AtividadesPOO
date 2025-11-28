@@ -3,6 +3,8 @@
 #include "ReadingProcess.h"
 #include "PrintingProcess.h"
 #include "WritingProcess.h"
+#include <fstream>
+#include <sstream>
 #include <iostream>
 #include <string>
 
@@ -19,7 +21,7 @@ void Sistema::iniciar() {
 
 		if (cin.fail()) {
 			cin.clear();
-			cin.ignore();
+			cin.ignore(numeric_limits<streamsize>::max(), '\n');
 			opcao = -1;
 		}
 
@@ -103,7 +105,17 @@ void Sistema::criarProcesso() {
 
 
 void Sistema::executarProximo() {
-	fila.executarProximo(); //NAO
+	if (fila.vazia()) {
+		cout << "Fila vazia" << endl;
+		return;
+	}
+
+	Processo* p = fila.removerInicio();
+	if (p != nullptr) {
+		cout << "Executando proximo pid (Pid: " << p->getPid() << "): " << endl;
+		p->execute();
+		delete p;
+	}
 }
 
 void Sistema::executarEspecifico() {
@@ -113,75 +125,60 @@ void Sistema::executarEspecifico() {
 	executarPorPid(pid);
 }
 
-void Sistema::salvarFila() {
-	cout << "Funcionalidade de Salvar ainda nao implementada na Fila." << endl;
-}
-
-void Sistema::carregarFila() {
-	cout << "Funcionalidade de Carregar ainda nao implementada na Fila." << endl;
-}
-
 void Sistema::executarPorPid(int pidBusca) { // fora da fila
-	if (inicio == nullptr) { //get inicio
-		cout << "Fila vazia" << endl; 
+	if (fila.vazia()) {
+		cout << "Fila vazia" << endl;
 		return;
 	}
 
-	Nodo* atual = inicio;
-	//NAO USAR PONTEIRO, COLOCAR UM FOR QUE PERCORRE A FILA INTEIRA, REFAZENDO ELA, TIRANDO O PID BUSCADO E REFAZENDO A ORDEM DA FILA
-	Nodo* anterior = nullptr;
+	int tamanhoOriginal = fila.getTamanho();
+	Processo* encontrado = nullptr;
 
-	while (atual != nullptr && atual->processo->getPid() != pidBusca) {
-		anterior = atual;
-		atual = atual->proximo;
-	}
+	for (int i = 0; i < tamanhoOriginal; i++) {
+		Processo* p = fila.removerInicio();
 
-	//se nao achou, avisa
-	if (atual == nullptr) {
-		cout << "Processo PID " << pidBusca << "nao foi encontrado" << endl;
-		return;
-	}
-
-	//se achou, executa ele
-	cout << "Executando PID '" << pidBusca << "'" << endl;
-	atual->processo->execute();
-
-	if (anterior == nullptr) {
-		inicio = atual->proximo;
-		if (atual == fim) {
-			fim = nullptr;
+		if (p->getPid() == pidBusca) {
+			encontrado = p;
 		}
+		else {
+			fila.adicionar(p);
+		}
+	}
+
+	if (encontrado != nullptr) {
+		cout << "Executando pid especifico (" << pidBusca << ")" << endl;
+		encontrado->execute();
+		delete encontrado;
 	}
 	else {
-		anterior->proximo = atual->proximo;
-		if (atual == fim) {
-			fim = anterior;
-		}
+		cout << "Processo pid " << pidBusca << " nao encontrado" << endl;
 	}
 
-	delete atual->processo;
-	delete atual;
-}
+} 
 
 void Sistema::imprimirFila() {
-	if (inicio == nullptr) {
+	if (fila.vazia()) {
 		cout << "Pool de processos vazio" << endl;
 		return;
 	}
 
-	Nodo* atual = inicio;
-	cout << "======== Pool de Processos ========" << endl;
-	while (atual != nullptr) {
-		cout << "Pid: " << atual->processo->getPid() << endl;
-		cout << " | Tipo: " << atual->processo->getTipo() << endl;
-		atual = atual->proximo;
+	int tamanho = fila.getTamanho();
+	cout << "Fila de processos" << endl;
+
+	for (int i = 0; i < tamanho; i++) {
+		Processo* p = fila.removerInicio();
+
+		cout << "Pid: " << p->getPid() << endl;
+		cout << " Tipo: " << p->getTipo() << endl;
+
+		fila.adicionar(p);
 	}
-	cout << "---------------------" << endl;
+	cout << endl;
 }
 
-void Sistema::salvarArquivo() {
-	if (inicio == nullptr) {
-		cout << "Fila vazia, nao ha nada para salvar" << endl;
+void Sistema::salvarFila() {
+	if (fila.vazia()) {
+		cout << "Fila vazia, nada para salvar." << endl;
 		return;
 	}
 
@@ -191,13 +188,90 @@ void Sistema::salvarArquivo() {
 		return;
 	}
 
-	Nodo* atual = inicio;
-	while (atual != nullptr) {
-		arquivo << atual->processo->toString() << endl;
-		atual = atual->proximo;
+	int tamanho = fila.getTamanho();
+
+	for (int i = 0; i < tamanho; i++) {
+		Processo* p = fila.removerInicio();
+
+		arquivo << p->toString() << endl;
+
+		fila.adicionar(p);
 	}
 
-	arquivo << "Proximo_Pid;" << proximoPid << endl; //VERIFICAR ISSO AQUI, PRA VER SE EU POSSO DAR UM GET NESSE PROXIMO PID
+	//salva o contador de PID
+	arquivo << "Proximo_Pid;" << fila.getProximoPid() << endl;
+
 	arquivo.close();
-	cout << "Fila salva com sucesso em 'fila_backup.txt'" << endl;
+	cout << "Fila salva com sucesso em 'fila_backup.txt'!" << endl;
+}
+
+void Sistema::carregarFila() {
+	ifstream arquivo("fila_backup.txt");
+
+	// pra verificar se o arquivo existe
+	if (!arquivo.is_open()) {
+		cout << "Arquivo de backup nao encontrado." << endl;
+		return;
+	}
+
+	// limpa a fila antes de colocar uma nova
+	if (!fila.vazia()) {
+		cout << "Limpando fila atual para carregar backup" << endl;
+		while (!fila.vazia()) {
+			Processo* lixo = fila.removerInicio();
+			delete lixo;
+		}
+	}
+
+	string linha;
+	int contador = 0;
+
+	while (getline(arquivo, linha)) {
+		if (linha.empty()) continue;
+
+		stringstream ss(linha);
+		string s_pid, tipo, dados;
+
+		getline(ss, s_pid, ';'); //pega o PID (ou a tag Proximo_Pid)
+		getline(ss, tipo, ';');  //pega o Tipo (ou o valor do contador)
+
+		if (s_pid == "Proximo_Pid") {
+			stringstream conversor(tipo);
+			int valor;
+
+			//tenta converter, se der certo, define o pid
+			if (conversor >> valor) {
+				fila.setProximoPid(valor);
+			}
+			continue; //pula pra proxima linha
+		}
+
+		int pid = stoi(s_pid);
+		Processo* novo = nullptr;
+
+		//cria o objeto baseado no tipo
+		if (tipo == "Computing") {
+			getline(ss, dados);
+			novo = new ComputingProcess(pid, dados);
+		}
+		else if (tipo == "Writing") {
+			getline(ss, dados); 
+			novo = new WritingProcess(pid, dados);
+		}
+		else if (tipo == "Reading") {
+			novo = new ReadingProcess(pid, &fila);
+		}
+		else if (tipo == "Printing") {
+			novo = new PrintingProcess(pid, &fila);
+		}
+
+		//Adiciona na fila
+		if (novo != nullptr) {
+			fila.adicionar(novo);
+			contador++;
+		}
+	}
+
+	arquivo.close();
+	cout << "Backup carregado com sucesso! " << contador << " processos restaurados." << endl;
 }

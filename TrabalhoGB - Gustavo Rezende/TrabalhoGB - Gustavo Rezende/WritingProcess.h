@@ -1,3 +1,4 @@
+#pragma once
 #include "Processo.h"
 #include <string>
 #include <fstream> //pra manipular os txt que eu odeio
@@ -12,4 +13,5 @@ public:
 	WritingProcess(int id, string expre);
 	void execute() override;
 	string toString() const override;
+	string getDetalhes() const override; 
 };

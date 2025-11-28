@@ -15,10 +15,8 @@ public:
 	void executarProximo();
 	void executarEspecifico();
 	void salvarFila();
-	void carregarFila();
 
 	void executarPorPid(int pidBusca);
 	void imprimirFila();
-	void salvarArquivo();
-	void carregarArquivo();
+	void carregarFila();
 };

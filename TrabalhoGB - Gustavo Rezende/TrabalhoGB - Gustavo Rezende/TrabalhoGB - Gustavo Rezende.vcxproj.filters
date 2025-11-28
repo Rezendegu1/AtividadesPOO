@@ -30,9 +30,6 @@
     <ClCompile Include="ComputingProcess.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="WritingProcess.cpp">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
     <ClCompile Include="ReadingProcess.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
@@ -40,6 +37,9 @@
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
     <ClCompile Include="Sistema.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="WritingProcess.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>

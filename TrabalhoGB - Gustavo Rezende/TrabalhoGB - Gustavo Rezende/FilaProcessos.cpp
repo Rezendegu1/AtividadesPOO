@@ -11,16 +11,20 @@ FilaProcessos::FilaProcessos() {
 }
 
 FilaProcessos::~FilaProcessos() { //pra deletar a fila
-	Nodo* atual = inicio;
-	while (atual != nullptr) {
-		Nodo* proximo = atual->proximo;
-		delete atual->processo; //deleta o objeto processo
-		delete atual;
-		atual = proximo;
+	while (inicio != nullptr) {
+		removerInicio();
 	}
 }
 int FilaProcessos::gerarPid() {
 	return proximoPid++;
+}
+
+int FilaProcessos::getProximoPid() const {
+	return proximoPid;
+}
+
+void FilaProcessos::setProximoPid(int pid) {
+	proximoPid = pid;
 }
 
 void FilaProcessos::adicionar(Processo* p) { // talvez mudar pra PUSH
@@ -38,23 +42,29 @@ void FilaProcessos::adicionar(Processo* p) { // talvez mudar pra PUSH
 	}
 }
 
-void FilaProcessos::executarProximo() { //RETORNAR o temporario pro sistema poder executar;
-	if (inicio == nullptr) {
-		cout << "Fila vazia. Nao ha nenhum processo para executar" << endl;
-	}
-
+int FilaProcessos::getTamanho() {
+	int contador = 0;
 	Nodo* temporario = inicio;
-	cout << "Executando proximo (Pid " << temporario->processo->getPid() << "):" << endl;
+	while (temporario != nullptr) {
+		contador++;
+		temporario = temporario->proximo;
+	}
+	return contador;
+}
 
-	temporario->processo->execute();// fila não deve saber como executar um processo. isso é responsabilidade do sistema
+Processo* FilaProcessos::removerInicio() { //RETORNAR o temporario pro sistema poder executar;
+	if (inicio == nullptr) return nullptr;
+
+	Nodo* temp = inicio;
+	Processo* p = temp->processo; // salva o processo para devolver
 
 	inicio = inicio->proximo;
 	if (inicio == nullptr) {
 		fim = nullptr;
 	}
 
-	delete temporario->processo;
-	delete temporario;
+	delete temp; // deleta o nodo, mas o processo continua, para que o sistema o delete, e nao a fila
+	return p;
 }
 
 bool FilaProcessos::vazia() {

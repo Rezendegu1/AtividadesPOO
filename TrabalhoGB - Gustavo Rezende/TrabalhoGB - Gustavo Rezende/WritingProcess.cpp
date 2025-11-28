@@ -22,3 +22,7 @@ void WritingProcess::execute() {
 string WritingProcess::toString() const {
 	return Processo::toString() + ";" + expressao;
 }
+
+string WritingProcess::getDetalhes() const {
+	return expressao;
+}

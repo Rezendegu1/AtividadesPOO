@@ -42,3 +42,7 @@ string ComputingProcess::toString() const {
     //retorna algo como: "1;Computing;10 + 5"
     return Processo::toString() + ";" + expressaoOriginal;
 }
+
+string ComputingProcess::getDetalhes() const {
+    return expressaoOriginal;
+}

@@ -17,7 +17,10 @@ public:
 	~FilaProcessos();
 
 	int gerarPid(); //gera um pid automaticamente
-	void adicionar(Processo* p); //enfileirar
-	void executarProximo(); //desenfileirar
+	int getProximoPid() const;
+	void setProximoPid(int pid);
+	void adicionar(Processo* p); //push
+	Processo* removerInicio(); //pop inicio - retorna o objeto
 	bool vazia();
+	int getTamanho();
 };
