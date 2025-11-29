@@ -1,11 +1,9 @@
-﻿  ComputingProcess.cpp
-  FilaProcessos.cpp
+﻿  FilaProcessos.cpp
   PrintingProcess.cpp
-  Processo.cpp
   ReadingProcess.cpp
   Sistema.cpp
   TrabalhoGB - Gustavo Rezende.cpp
-  WritingProcess.cpp
-  WritingProcess.h
   Gerando Código...
+  LINK : C:\Users\User\Documents\GitHub\AtividadesPOO\TrabalhoGB - Gustavo Rezende\x64\Debug\TrabalhoGB - Gustavo Rezende.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+x64\Debug\WritingProcess.obj : warning LNK4042: objeto especificado mais de uma vez; extras ignorados
   TrabalhoGB - Gustavo Rezende.vcxproj -> C:\Users\User\Documents\GitHub\AtividadesPOO\TrabalhoGB - Gustavo Rezende\x64\Debug\TrabalhoGB - Gustavo Rezende.exe

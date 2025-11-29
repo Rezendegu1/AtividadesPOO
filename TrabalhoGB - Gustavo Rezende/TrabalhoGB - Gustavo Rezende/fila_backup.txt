@@ -1,3 +1,6 @@
-2;Computing;10 + 5
-3;Computing;20 + 20
-Proximo_Pid;4
+1;Computing;10 + 5
+2;Writing;10 + 20
+3;Writing;10 + 30
+4;Reading
+6;Printing
+Proximo_Pid;7
